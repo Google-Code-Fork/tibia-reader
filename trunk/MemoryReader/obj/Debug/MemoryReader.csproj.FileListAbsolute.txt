@@ -1,0 +1,9 @@
+c:\users\peecee\documents\visual studio 2012\Projects\MemoryReader\MemoryReader\bin\Debug\MemoryReader.exe.config
+c:\users\peecee\documents\visual studio 2012\Projects\MemoryReader\MemoryReader\bin\Debug\MemoryReader.exe
+c:\users\peecee\documents\visual studio 2012\Projects\MemoryReader\MemoryReader\bin\Debug\MemoryReader.pdb
+c:\users\peecee\documents\visual studio 2012\Projects\MemoryReader\MemoryReader\obj\Debug\MemoryReader.csprojResolveAssemblyReference.cache
+c:\users\peecee\documents\visual studio 2012\Projects\MemoryReader\MemoryReader\obj\Debug\MemoryReader.Form1.resources
+c:\users\peecee\documents\visual studio 2012\Projects\MemoryReader\MemoryReader\obj\Debug\MemoryReader.Properties.Resources.resources
+c:\users\peecee\documents\visual studio 2012\Projects\MemoryReader\MemoryReader\obj\Debug\MemoryReader.csproj.GenerateResource.Cache
+c:\users\peecee\documents\visual studio 2012\Projects\MemoryReader\MemoryReader\obj\Debug\MemoryReader.exe
+c:\users\peecee\documents\visual studio 2012\Projects\MemoryReader\MemoryReader\obj\Debug\MemoryReader.pdb
