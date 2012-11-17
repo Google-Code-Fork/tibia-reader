@@ -1,0 +1,8 @@
+C:\Users\Peecee\documents\visual studio 2012\Projects\MemoryReader\MemoryReader\bin\Release\MemoryReader.exe.config
+C:\Users\Peecee\documents\visual studio 2012\Projects\MemoryReader\MemoryReader\bin\Release\MemoryReader.exe
+C:\Users\Peecee\documents\visual studio 2012\Projects\MemoryReader\MemoryReader\bin\Release\MemoryReader.pdb
+C:\Users\Peecee\documents\visual studio 2012\Projects\MemoryReader\MemoryReader\obj\Release\MemoryReader.Form1.resources
+C:\Users\Peecee\documents\visual studio 2012\Projects\MemoryReader\MemoryReader\obj\Release\MemoryReader.Properties.Resources.resources
+C:\Users\Peecee\documents\visual studio 2012\Projects\MemoryReader\MemoryReader\obj\Release\MemoryReader.csproj.GenerateResource.Cache
+C:\Users\Peecee\documents\visual studio 2012\Projects\MemoryReader\MemoryReader\obj\Release\MemoryReader.exe
+C:\Users\Peecee\documents\visual studio 2012\Projects\MemoryReader\MemoryReader\obj\Release\MemoryReader.pdb
