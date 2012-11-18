@@ -222,7 +222,7 @@ namespace MemoryReader
             {
                 if (ReadInt32(Tibia.Handle, current + Base) != 0)
                 {
-                    int[] offsets = new int[23] { 0, 3, 4, 36, 40, 44, 80, 84, 100, 104, 108, 112, 116, 120, 124, 128, 140, 144, 148, 152, 156, 164, 168 };
+                    int[] offsets = new int[24] { 0, 3, 4, 36, 40, 44, 80, 84, 100, 104, 108, 112, 116, 120, 124, 128, 140, 144, 148, 152, 156, 164, 168, 172 };
                     int b = 0;
                     lst[i].cid = ReadInt32(Tibia.Handle, current + offsets[b] + Base); b = b + 1;
                     lst[i].type = ReadInt32(Tibia.Handle, current + offsets[b] + Base); b = b + 1;

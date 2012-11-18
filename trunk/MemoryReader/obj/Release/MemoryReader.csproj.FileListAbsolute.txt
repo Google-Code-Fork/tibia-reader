@@ -6,3 +6,4 @@ C:\Users\Peecee\documents\visual studio 2012\Projects\MemoryReader\MemoryReader\
 C:\Users\Peecee\documents\visual studio 2012\Projects\MemoryReader\MemoryReader\obj\Release\MemoryReader.csproj.GenerateResource.Cache
 C:\Users\Peecee\documents\visual studio 2012\Projects\MemoryReader\MemoryReader\obj\Release\MemoryReader.exe
 C:\Users\Peecee\documents\visual studio 2012\Projects\MemoryReader\MemoryReader\obj\Release\MemoryReader.pdb
+C:\Users\Peecee\documents\visual studio 2012\Projects\MemoryReader\MemoryReader\obj\Release\MemoryReader.csprojResolveAssemblyReference.cache
